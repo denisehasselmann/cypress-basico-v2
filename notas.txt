@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 testetetste
 nova versão 
 para testes 
+=======
+testetetste
+>>>>>>> parent of 6ee60f9 (nova versão do arquivo notas.txt)
